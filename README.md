@@ -1,102 +1,26 @@
-# Hi, I'm Saad Ahmed 👋
+<h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
+<h3 align="center">A passionate fullstack developer from Egypt</h3>
 
-Backend .NET Developer | Full Stack Developer | Computer Engineering Student
+- 🔭 I’m currently working on [ecommerce microservices](https://github.com/saadpy111/Ecommerce)
 
-I am a Computer Engineering student at Kafr El Sheikh University and a Full Stack .NET trainee at DEPI.
+- 🌱 I’m currently learning **Microservices , Domain-Driven Design (DDD) , grpc**
 
-My primary interests are:
+- 💬 Ask me about **Angular , Asp.NetCore**
 
-* Enterprise Software Development
-* ERP Systems
-* Microservices Architecture
-* Distributed Systems
-* Backend Engineering
-* Multi-Tenant SaaS Platforms
+- 📫 How to reach me **saadahmadpy@gmail.com**
 
-## [![My Skills]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vFOvG6HBRz8bRCvxx9HU3Kgks4K7dRCg/view?usp=drive_link](https://drive.google.com/file/d/1vFOvG6HBRz8bRCvxx9HU3Kgks4K7dRCg/view?usp=drive_link)
 
-* (https://skillicons.dev/icons?i=cs,dotnet,mongodb,postgres,redis,rabbitmq,docker,git,github,angular)](https://skillicons.dev)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/saad-ahmed-216bbb268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saad-ahmed-216bbb268" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## Current Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadpy111&show_icons=true&locale=en&layout=compact" alt="saadpy111" /></p>
 
-### ERP System (Graduation Project)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadpy111&show_icons=true&locale=en" alt="saadpy111" /></p>
 
-Modular ERP platform built with ASP.NET Core, Clean Architecture, CQRS, MediatR, SQL Server, Authentication, Authorization, and Multi-Tenant Website Management.
-
-### E-Commerce Microservices Platform
-
-Distributed e-commerce system built with ASP.NET Core, Angular, RabbitMQ, Docker, MongoDB, PostgreSQL, Redis, and API Gateway.
-
-
-## Tech Stack
-
-### Backend
-
-* ASP.NET Core
-* C#
-* Entity Framework Core
-* SQL Server
-* PostgreSQL
-* MongoDB
-* REST APIs
-
-### Architecture
-
-* Clean Architecture
-* CQRS
-* MediatR
-* Modular Monolith
-* Microservices
-* Repository Pattern
-* Unit Of Work
-* SOLID Principles
-
-### Messaging & Distributed Systems
-
-* RabbitMQ
-* Event-Driven Architecture
-
-### Frontend
-
-* Angular
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-* Bootstrap
-
-### Tools
-
-* Docker
-* Docker Compose
-* Git
-* GitHub
-* Swagger
-
-
-## Featured Projects
-
-### ERP System
-
-Enterprise Resource Planning platform covering Inventory, Accounting, CRM, Subscription Management, and Multi-Tenant Website Management.
-
-### E-Commerce Microservices
-
-Distributed microservices-based e-commerce platform using RabbitMQ and independent databases per service.
-
-### Learnova
-
-E-learning platform developed during DEPI training with authentication, authorization, payment integration, and course management.
-
-
-## Competitive Programming
-
-* 300+ problems solved across LeetCode, HackerRank, and Codeforces.
-
-
-## Connect With Me
-
-* LinkedIn: [linkedin.com/in/saad-ahmed-216bbb268]
-* GitHub: https://github.com/saadpy111
-* Email: [saadahmadpy@gmail.com]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadpy111&" alt="saadpy111" /></p>
