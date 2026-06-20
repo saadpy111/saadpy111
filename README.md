@@ -91,6 +91,8 @@ E-learning platform developed during DEPI training with authentication, authoriz
 
 * 300+ problems solved across LeetCode, HackerRank, and Codeforces.
 
+* [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mongodb,postgres,redis,rabbitmq,docker,git,github,angular)](https://skillicons.dev)
+
 
 
 ## Connect With Me
