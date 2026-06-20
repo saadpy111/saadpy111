@@ -13,6 +13,9 @@ My primary interests are:
 * Backend Engineering
 * Multi-Tenant SaaS Platforms
 
+## [![My Skills]
+
+* (https://skillicons.dev/icons?i=cs,dotnet,mongodb,postgres,redis,rabbitmq,docker,git,github,angular)](https://skillicons.dev)
 
 
 ## Current Projects
@@ -90,9 +93,6 @@ E-learning platform developed during DEPI training with authentication, authoriz
 ## Competitive Programming
 
 * 300+ problems solved across LeetCode, HackerRank, and Codeforces.
-
-* [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mongodb,postgres,redis,rabbitmq,docker,git,github,angular)](https://skillicons.dev)
-
 
 
 ## Connect With Me
